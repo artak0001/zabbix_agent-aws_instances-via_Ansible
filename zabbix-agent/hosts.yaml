@@ -1,0 +1,7 @@
+
+MyEc2-1 ansible_host=172.31.46.107
+MyEc2-2 ansible_host=172.31.35.67
+
+vars
+ansible_user=ubuntu
+ansible_ssh_private_key_file=/home/ubuntu/Ohaio-key.ppk
