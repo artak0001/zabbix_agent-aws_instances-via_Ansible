@@ -13,7 +13,7 @@
      group: webserver
      count: 2
      region: us-east-2
-     security_group: my-test-security-grp
+     security_group: my-jenkins-security-grp
    
    tasks:
 
