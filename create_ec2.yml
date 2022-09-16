@@ -11,9 +11,9 @@
      image: ami-0960ab670c8bb45f3
      wait: yes
      group: webserver
-     count: 3
+     count: 2
      region: us-east-2
-     security_group: my-jenkins-security-grp
+     security_group: my-test-security-grp
    
    tasks:
 
